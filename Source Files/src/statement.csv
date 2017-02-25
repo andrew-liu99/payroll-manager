@@ -1,0 +1,9 @@
+Last Name,First Name,Position,Hourly Rate,Hours Worked,Total Owed
+Desai,Roshni,Loser,$1.01,4,=D2*E2
+Lewis,Craig,Dank Memer,$5.80,7,=D3*E3
+Samuel,Armaan,Garbage Man,$2.50,2,=D4*E4
+V,Sayon,Bing Mapper,$12.50,5,=D5*E5
+Xu,Daniel,Rocket Leaguer,$32.50,5,=D6*E6
+Zaidi,Tashi,President of the Loser Club,$1.00,0,=D7*E7
+
+Totals,-,-,-,=SUM(E2:E7),=SUM(F2:F7)

@@ -1,0 +1,7 @@
+Brown,Joe,Dentist,4025,5
+Jones,Bobby,Assistant,1000,5
+Jiang,Sam,Lawyer,3000,6
+Jackson,Robert,Janitor,1250,9
+Kwon,Daniel,Accountant,3250,2
+Gatsby,Tim,Teacher,2500,2
+Brown,Greg,Doctor,6065,5
